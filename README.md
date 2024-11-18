@@ -1,1 +1,8 @@
-# Boston-Condo-project-using-Tableau
+#Boston-Condo-project-using-Tableau
+
+#Description
+"Today many big organizations are sitting on large chunks of data, not knowing what to do with it. They invite consultants & business analysts to have a look at data and come up with insights that could help the organization run their business better. There is no clear set of instructions in such open-ended problems and it is expected of the consultant to do a lot of exploration first and formulate the problems themselves. This DVT project falls into the bucket of such open-ended problems and a specific problem statement has not been given intentionally. It is expected of students to explore the data and come up with good insights. There is no right and wrong answer here. There should a clear logical story which should come out of their submission."
+
+#Problem Statement:
+
+Consider that you are a Lead Data Analyst at a Real Estate company in Boston that has provided you with the House Pricing dataset. You have been given a task to explore the data, create different plots and interpret useful insights/findings. Your end goal here will be to create a storyboard that you have to present to the Senior Management and the story has to have an end objective and should follow a logical flow to display that you are heading towards achieving the end objective. This will help the Senior Management in taking some decisive actions on the current House Recommendation System in place. This storyboard will be an open-ended story for you to explore various different features in the data and try to showcase different plots. Make sure to have minimum clutter in the plots, follow a consistent color scheme across all the plots, and use proper colors to highlight a specific insight. Moreover, your plots on all the dashboards should be interactive and responsive. There should be 1 dashboard that should cover the summary of the story as well as your recommendations.
